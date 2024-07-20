@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>@Titulo</title>
+</head>
+
+<style>
+    th,
+    td {
+        padding: 10px;
+        text-align: center;
+    }
+</style>
+
+<body>
+    <table style="width: 100%;">
+        <tr>
+            <th style="width: 30%; font-size: 5px;">
+                &nbsp;
+            </th>
+
+            <th style="width: 40%; font-size: 5px;">
+                &nbsp;
+            </th>
+
+            <th style="width: 30%; font-size: 5px;">
+                &nbsp;
+            </th>
+        </tr>
+    </table>
+    <table style="width: 100%; height: 300px; margin-bottom: 50px; padding:50px;">
+        <tr>
+            <th style="width: 30%; font-size: 20px; padding: 10px;">
+                &nbsp;
+            </th>
+
+            <th style="width: 40%; font-size: 20px; padding: 10px; ">
+                @Titulo
+            </th>
+
+            <th style="width: 30%; font-size: 20px; padding: 10px;">
+                @Fecha
+            </th>
+        </tr>
+    </table>
+
+    <table style="width: 100%;" border="1" cellspacing="0">
+        <tr>
+            <th>N° Entrada</th>
+            <th>Producto</th>
+            <th>PrecioUnitario</th>
+            <th>Cantidad</th>
+            <th>SubTotal</th>
+            <th>Fecha</th>
+        </tr>
+
+        @Filas
+    </table>
+</body>
+
+</html>
