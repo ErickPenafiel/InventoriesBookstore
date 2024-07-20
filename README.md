@@ -3,11 +3,11 @@
 ## Capturas de Pantalla
 
 ### Login
-![Login](https://drive.google.com/uc?export=view&id=1DOMqoeHnVvmPkUlDvfVxovof2MVKfvry)
+![Login](https://i.ibb.co/J5h7hNM/Inicio-Libreria.png)
 *Login del Inventario*
 
 ### Pantalla Principal
-![Pantalla Principal](https://drive.google.com/uc?export=view&id=1ext6w5rQv2w8CmUQDHTBsGoM3M7mpRWr)
+![Pantalla Principal](https://i.ibb.co/dpK56xm/Login-Libreria.png)
 *Pantalla Principal del Sistema de Control de Inventarios*
 
 ## Descripción
